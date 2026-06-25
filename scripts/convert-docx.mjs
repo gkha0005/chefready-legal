@@ -10,7 +10,7 @@ const OUT_DIR = join(ROOT, 'content')
 
 const FILE_MAP = {
   'Privacy-PolicyV2 22.06.2026.docx': 'privacy-policy.md',
-  'Terms-and-Conditions-v1.docx': 'terms-and-conditions.md',
+  'Terms-and-condition-v2.docx': 'terms-and-conditions.md',
 }
 
 const PANDOC_ARGS = [

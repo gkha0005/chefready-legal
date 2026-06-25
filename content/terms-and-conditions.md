@@ -1,6 +1,6 @@
 # Terms and Conditions
 
-_Last updated: 2026-05-20_
+_Last updated: 2026-06-22_
 
 ## 1. About these Terms
 
@@ -110,7 +110,7 @@ i)  introduce any virus, malware, harmful code, corrupted file or other material
 
 8.1 The Website and Material are provided for general information and platform access purposes only. We are not providing legal, accounting, tax, financial, medical, nutritional, dietary or other professional advice through the Website.
 
-8.2 To the maximum extent permitted by law, we do not warrant, guarantee or represent that:
+8.2 To the maximum extent permitted by law, and subject to clause 20, we do not warrant, guarantee or represent that:
 
 a)  any Material on the Website is accurate, complete, current, reliable or suitable for any particular purpose;
 
@@ -222,7 +222,7 @@ e)  is otherwise inappropriate for publication or continued availability through
 
 20.2 To the maximum extent permitted by law, all guarantees, warranties, representations or conditions not expressly stated in these Terms are excluded.
 
-20.3 To the maximum extent permitted by law, Chef Ready is not liable for any indirect, consequential, special, incidental, punitive or exemplary loss, loss of profit, loss of revenue, loss of opportunity, loss of goodwill, loss of data, loss of anticipated savings or business interruption, whether arising in contract, tort, statute, equity or otherwise.
+20.3 To the maximum extent permitted by law, Chef Ready is not liable for any indirect, special, incidental, punitive or exemplary loss, loss of profit, loss of revenue, loss of opportunity, loss of goodwill, loss of data, loss of anticipated savings or business interruption, whether arising in contract, tort, statute, equity or otherwise.
 
 20.4 To the extent permitted by law, and subject to clause 20.1, our liability for breach of any non-excludable guarantee or condition is limited, at our option, to:
 
@@ -240,7 +240,7 @@ b)  in the case of goods, the replacement of the goods, the supply of equivalent
 
 22.1 We may amend these Terms from time to time by publishing an updated version on the Website or otherwise notifying you.
 
-22.2 Continued access to or use of the Website after an updated version is published or notified constitutes acceptance of the updated Terms.
+22.2 You are not bound to accept an amendment to these terms. However, continued access to or use of the Website after an updated version is published or notified constitutes acceptance of the updated Terms. If you do not agree with an amendment following notification or publication of the change, you must discontinue your use of the website.
 
 22.3 Where we consider that a change materially affects a Creator’s rights or obligations, we may provide additional notice through the Website, creator portal, email or any other communication method we consider appropriate.
 
@@ -254,7 +254,7 @@ b)  in the case of goods, the replacement of the goods, the supply of equivalent
 
 ## 24. Assignment and subcontracting
 
-24.1 We may assign, novate, transfer, subcontract or otherwise deal with our rights or obligations under these Terms without your consent, provided we do so in accordance with applicable law.
+24.1 We may assign, transfer, subcontract or otherwise deal with our rights or obligations under these Terms without your consent, provided we do so in accordance with applicable law.
 
 24.2 You must not assign, transfer or otherwise deal with your rights or obligations under these Terms without our prior written consent.
 
@@ -278,4 +278,4 @@ b)  in the case of goods, the replacement of the goods, the supply of equivalent
 
 27.3 If there is an inconsistency between these Terms and the App Terms in relation to a Subscriber’s use of the App, the App Terms prevail to the extent of the inconsistency.
 
-*Last updated: 20 May 2026*
+*Last updated: 22 June 2026*

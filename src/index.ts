@@ -5,4 +5,4 @@ export const privacyPolicy: string = privacyPolicyMd
 export const termsAndConditions: string = termsAndConditionsMd
 
 export const privacyPolicyLastUpdated = '2026-06-22'
-export const termsLastUpdated = '2026-05-20'
+export const termsLastUpdated = '2026-06-22'
