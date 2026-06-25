@@ -1,6 +1,6 @@
 {
   "name": "@chefready/legal",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Chef Ready shared legal content (privacy policy, terms & conditions) as importable strings.",
   "type": "module",
   "main": "./dist/index.cjs",
